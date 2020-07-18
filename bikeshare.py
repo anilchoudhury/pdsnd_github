@@ -18,7 +18,7 @@ Weekday_map = { 'mo': 'Monday',
                 'su': 'Sunday'}
 
 def get_city_input():
-    """ Get city input from user """
+    """ Get city input from user referring the city list defined """
     exit_msg = 'Exit'
     city_list = list(CITY_DATA.keys())
     city = ""

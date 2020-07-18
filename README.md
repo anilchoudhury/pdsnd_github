@@ -1,6 +1,6 @@
 ### Date created
-Date | Comments
-----------------
+Date        | Comments
+------------|-----------------
 16-Jul-2020 | Added python code
 18-Jul-2020 | Adding documentation
 

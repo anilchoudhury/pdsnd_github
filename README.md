@@ -1,8 +1,8 @@
 ### Date created
 Date        | Comments
-------------|-----------------
+------------|----------------------
 16-Jul-2020 | Added python code
-18-Jul-2020 | Adding documentation
+18-Jul-2020 | Added documentation
 
 ### Project Title
 **Bikeshare** Data Analysis
@@ -28,7 +28,10 @@ bikeshare.py
 
 ### Credits
 I would like to thank following blogs or sites, which I refer during my project work:
-* https://git-scm.com/docs/gitignore
-* https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/
-* https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.iloc.html
+
+Help type | Sites referred
+----------|------------------
+Git ignore file | https://git-scm.com/docs/gitignore
+Git commit message format | https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide
+pandas record print | https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.iloc.html
 

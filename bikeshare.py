@@ -45,7 +45,7 @@ def get_city_input():
     return city
 
 def get_month_input():
-    """ Get month input from user """
+    """ Get a particular month or all months as input from user """
     all_months = 'All'
     print('-'*40)
     for index, month in enumerate(Month_list):
@@ -67,7 +67,7 @@ def get_month_input():
     return month
 
 def get_weekday_input():
-    """ Get weekday input from user """
+    """ Get a weekday or all weekdays as input from the user """
     all_days = 'All'
     print('-'*40)
     for index, weekday in enumerate(Weekday_user_choice_list):
